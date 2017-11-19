@@ -1,0 +1,4 @@
+#!/bin/bash
+
+TOKEN=YOUR_TOKEN_IN_CLOUD_LIFX
+BASE_URL=https://api.lifx.com/v1
